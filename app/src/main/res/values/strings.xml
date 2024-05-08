@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AirSpace</string>
+
+    <string name="happiness1_image_title">Eating a snack</string>
+    <string name="happiness2_image_title">Pillows made by real hands</string>
+    <string name="happiness3_image_title">Sleeping soundly</string>
+    <string name="happiness4_image_title">Her back</string>
+    <string name="happiness5_image_title">Waiting for snack</string>
+
+
+    <string name="happiness1_image_description">Hanni wants to eat more delicious dog gum</string>
+    <string name="happiness2_image_description">Hanni likes her older sister\'s hands the most</string>
+    <string name="happiness3_image_description">Hanni likes the blanket that her mom usually sleeps on</string>
+    <string name="happiness4_image_description">She is in the living room scouting to make sure her family is safe</string>
+    <string name="happiness5_image_description">Hanni is wondering what kind of snack she will be eating</string>
+
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+
+</resources>
